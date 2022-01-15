@@ -83,7 +83,7 @@
  }
  .banner-left{
 
-    padding-left: 50px;
+    
     display: flex;
     align-items: center;
   
@@ -102,13 +102,12 @@
    
  }
 
-
  .banner-text{
   
     margin: 20px 0;
     color: rgba(0, 0, 0, 0.644);
  }
- .prebook-button{
+ .preebook-button{
     
     font-size: 18px;
     font-weight: 500;
@@ -121,7 +120,7 @@
     color: rgb(247, 242, 242);
     border-radius: 8px;
     cursor: pointer;
-    transition: .9s linear;
+    transition: .3s linear;
  }
  .love-button:hover{
     background-color: transparent;
@@ -181,7 +180,6 @@
 /* popular collection area start */
 .popular-collection {
   margin: 60px 0 40px;
-
 }
 
 .popular-collection .grid-container {
